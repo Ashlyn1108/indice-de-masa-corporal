@@ -1,0 +1,103 @@
+
+h5 {
+    font-size: 1.85rem;
+    color: rgb(150, 0, 250);
+    text-align: center;
+    position: relative;
+    left: 28%;
+    width: 40vw;
+    height: 3vw;
+    background-color: #2bcfb9;
+}
+p{
+    color: #000000;
+}
+   
+ 
+.card-header{
+    font-size: 1.55rem;
+    color: #cc00ff;
+    text-align: center;
+    position: relative;
+    left: 0.01%;
+    width: 58.6vw;
+    height: 2vw;
+    background-color: #620399;
+ 
+}
+
+.card{
+    font-size: 1.55rem;
+    color: #cc00ff;
+    text-align: center;
+    position: relative;
+    left: 25%;
+    width: 100vw;
+    height: 20vw;
+    background-color: #2bcfb9;
+ 
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+div {
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+
+label {
+    display: inline-block;
+    width: 120px;
+    text-align: center;
+}
+
+input[type="number"],
+select {
+    width: 100px;
+    text-align: center;
+    background-color: #cf2bc7;
+}
+
+button {
+    display: block;
+    margin: 40px auto;
+    text-align: center;
+    background-color: #cf2bc7;
+}
+
+#resultado {
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    left: 45%;
+    width: 15vw;
+    height: 10vw;
+    background-color: #2bcfb9;
+}
+
+body{
+    padding: 0;
+        margin: 0;
+        background-image: url("imagen.jpg");
+}
+.tabla{
+
+    text-align: center;
+    
+}
+
+
+
+
+
+
